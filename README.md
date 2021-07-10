@@ -1,1 +1,1 @@
-# Weather_App_projrct
+# Weather_App_project
